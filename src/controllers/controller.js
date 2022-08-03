@@ -1,10 +1,10 @@
 const {Pool} = require("pg");
 const pool = new Pool({
-    user: "postgres",
-    password: "manuss17",
+    user: "your user",
+    password: "your password",
     host: "localhost",
     port: 5432,
-    database: "postgres"
+    database: "your database name"
 })
 
 const getUsers = async (req, res) => {
