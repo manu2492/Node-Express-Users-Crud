@@ -3,4 +3,4 @@ it is a a node-express-postgresql crud, you can create, read, update and delete 
 
 ## Execution
 
-run in your terminal node `src/index.js`
+run in your terminal `node src/index.js`
